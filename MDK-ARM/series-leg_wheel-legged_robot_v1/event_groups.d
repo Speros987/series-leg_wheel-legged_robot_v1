@@ -1,0 +1,15 @@
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+series-leg_wheel-legged_robot_v1\event_groups.o: C:\Users\WXR\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+series-leg_wheel-legged_robot_v1\event_groups.o: C:\Users\WXR\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+series-leg_wheel-legged_robot_v1\event_groups.o: C:\Users\WXR\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+series-leg_wheel-legged_robot_v1\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
